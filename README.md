@@ -5,6 +5,8 @@ How to Local host:->
 
 (Terminal)->
 
+ Note- Install git and node js
+
 git clone "https://github.com/rsaha556/fortuna-website-2026.git"
 
 cd https://github.com/rsaha556/fortuna-website-2026.git
